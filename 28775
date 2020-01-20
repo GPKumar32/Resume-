@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Resume</title>
+<style type="text/css">
+body{
+
+    font-family:Times New Roman;
+}
+h1{
+    text-align:left;
+   }
+   p{
+  font-size: 25px;
+   }
+   h3{
+    font-size:20px;
+   }
+   table{
+    font-size: 20px;
+   }
+   </style>
+
+<body>
+
+    <img src="gp.jpg"align="right" height="240" width="240">
+    <center>
+    <h1 style="text-align: left;">PRASANNA KUMAR G</h1>
+    <p style="text-align: left;">401,South St,Veppankulam</p>
+    <p style="text-align: left;">Srivilliputtur-626137</p>
+    <p style="text-align: left;">Virudhunagar (dt).</h4>
+    <p style="text-align: left;">Email ID:gpkumar3232@gmail.com</p>
+    <p style="text-align: left;">Mobile no: 8778920709</p></center>
+    <h3 style="background-color:blue; color:white;padding:05px;"><u>OBJECTIVE</u></h3>
+    <p>To work in an innovative and challenging environment extracting the best out of me which is conductive to learn and grow at professional and personal level thereby directing my future endeavors as an asset to the organization.</p>
+   
+    <h3 style="background-color:blue; color:white;padding:05px;"><u>ACADEMIC QUALIFICATIONS</u></h3>
+
+    <table border=3 width=1000 cellpadding=10 align="center" st>
+    <tr>
+    <th>QUALIFICATION</th>
+    <th>BOARD/UNIVERSITY</th>
+    <th>SCHOOL/COLLEGE</th>
+    <th>YEAR OF PASSING</th>
+    <th>PERCENTAGE/CGPA</b></th>
+    </tr>
+    <tr>
+    <td>B.E(CSE)</td>
+    <td> Anna University</td>
+    <td>Ramco Institute of Technology</td>
+    <td>2021</td>
+    <td>6.7 cgpa</td>
+    </tr>
+    <tr>
+    <td>12<sup>th</td>
+    <td>State Board</td>
+    <td>P.A.C.M Hr Sec School</td>
+    <td>2017</td>
+    <td>83%</td>
+    </tr>
+    <tr>
+    <td>10<sup>th</td>
+    <td>State Board</td>
+    <td>P.A.C.M Hr Sec School</td>
+    <td>2015</th>
+    <td>87%</th>
+    </tr>  
+    </table>
+    <h3 style="background-color:blue;color:white;padding:05px;">
+        <u>PROJECTS UNDERTAKEN</u>
+        </h3>
+        <ul>
+       
+        <li><p>Developed a project on JAVA titled,<b>”ONLINE RAILWAY RESERVATION SYSTEM”.</b></p></li><li><p>Developed a project on DBMS titled,<b>”ONLINE RAILWAY RESERVATION SYSTEM”</b>, using JAVA as a front end.</p></li></ul>
+    
+        <h3 style="background-color:blue; color:white;padding:05px;">
+        <u>AREAS OF INTEREST:</u>
+        </h3>
+        <ul>
+        <li><p>C & Python & Java Programming</p></li><li><p>Web Designing & Development</p></li><li><p>Computer Networks</p></li><li><p>Android Development</p></li></ul>
+       
+        <h3 style="background-color:blue;color:white;padding:05px;">
+        <u>Programming Skills</u></h3>
+        <ul>
+        <li><p>C</p></li><li><p>JAVA</p></li><li><p>Python</p></li></ul>
+
+        <h3 style="background-color:blue;color:white;padding:05px;">
+        <u>Technology Skills</u></h3>
+        <ul>
+        <li><p>OOP</p></li><li><p>Database</p></li><li><p>Web Technology</p></li></ul>
+
+       
+<h3>
+<div style="background-color:blue;color:white;padding:05px;">
+<u>PERSONAL DETAILS</u>
+</h3>
+<table border="0">
+<tr>
+<td><b>DATE OF BIRTH :</td><td>06-03-2000</td></tr>
+<tr>
+<td><b>FATHER'S NAME :</td><td>GOPALA KRISHNAN R</td></tr>
+<tr>
+<td><b>HOBBIES:       </td><td>Cricket & Carrom</td></tr>
+</table>
+   </div>
+</body>
+</html>
